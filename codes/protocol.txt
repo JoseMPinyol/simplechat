@@ -1,0 +1,13 @@
+# Protocolo de Chat
+# UO Corporation
+# Version 0.1
+# License: GPL v3
+
+Cada paquete tendrá los primeros 5 bytes para el comando a ejecutar:
+Lista de comandos:
+ - login <nombre_usuario>: 
+ - write [all, user] <message>
+ - list <users>
+ - said [all, user] <userid> <message>
+
+

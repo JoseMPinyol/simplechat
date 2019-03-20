@@ -2,7 +2,7 @@
 ## About:
 Chat project from when I was a "mid-career" student in 2014. Developed with Reynaldo Gil Pons.
 This simple chat project is based on plain TCP sockets in Python.
-[Download](master/bin)
+[Download](bin)
 
 ## [BackendCode](codes/my_server.py) :
 The server use a non-blocking socket and select.

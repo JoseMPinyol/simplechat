@@ -25,8 +25,8 @@ Some details about GUI:
   <img src="bin/win32/Example%20GUI.png" height="auto" width="410px"/>
  </p>
  
-## Some small recommendations (5 years latter :-) )
+## Some "small" recommendations (5 years latter :-) )
 - The structure of project could be improved
 - The protocol is too simple and should be improved. (Ex: To support large messages and other stuffs).
-- Some persistence of users data could be added after closing chat.
+- Some persistence of users data after closing chat could be added.
 - A lot of recommendations are available to GUI.
